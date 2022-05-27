@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38156" started-at="2022-05-27T04:43:02Z" finished-at="2022-05-27T04:43:40Z">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateCampaignTest.createCampaignTest()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="createCampaignTest" class="com.vtiger.campaignTest.CreateCampaignTest"/>
+        <method signature="CreateCampaignwithProductTest.fetchDataFromPropertiesMoreCampaign()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="fetchDataFromPropertiesMoreCampaign" class="com.vtiger.campaignTest.CreateCampaignwithProductTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="38156" started-at="2022-05-27T04:43:02Z" finished-at="2022-05-27T04:43:40Z">
+      <class name="com.vtiger.campaignTest.CreateCampaignTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="beforesuite" is-config="true" duration-ms="1812" started-at="2022-05-27T04:43:00Z" finished-at="2022-05-27T04:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="beforeclass" is-config="true" duration-ms="4792" started-at="2022-05-27T04:43:02Z" finished-at="2022-05-27T04:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="beforemethod" is-config="true" duration-ms="2403" started-at="2022-05-27T04:43:07Z" finished-at="2022-05-27T04:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="createCampaignTest()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="createCampaignTest" duration-ms="6502" started-at="2022-05-27T04:43:10Z" finished-at="2022-05-27T04:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="aftermethod" is-config="true" duration-ms="1162" started-at="2022-05-27T04:43:17Z" finished-at="2022-05-27T04:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="afterclass" is-config="true" duration-ms="907" started-at="2022-05-27T04:43:18Z" finished-at="2022-05-27T04:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignTest@324dcd31]" name="aftersuite" is-config="true" duration-ms="0" started-at="2022-05-27T04:43:40Z" finished-at="2022-05-27T04:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.vtiger.campaignTest.CreateCampaignTest -->
+      <class name="com.vtiger.campaignTest.CreateCampaignwithProductTest">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="beforeclass" is-config="true" duration-ms="4235" started-at="2022-05-27T04:43:19Z" finished-at="2022-05-27T04:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="beforemethod" is-config="true" duration-ms="2225" started-at="2022-05-27T04:43:23Z" finished-at="2022-05-27T04:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="fetchDataFromPropertiesMoreCampaign()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="fetchDataFromPropertiesMoreCampaign" duration-ms="13392" started-at="2022-05-27T04:43:25Z" finished-at="2022-05-27T04:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchDataFromPropertiesMoreCampaign -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="aftermethod" is-config="true" duration-ms="1085" started-at="2022-05-27T04:43:39Z" finished-at="2022-05-27T04:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.vtiger.campaignTest.CreateCampaignwithProductTest@503d56b5]" name="afterclass" is-config="true" duration-ms="707" started-at="2022-05-27T04:43:40Z" finished-at="2022-05-27T04:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.vtiger.campaignTest.CreateCampaignwithProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
